@@ -96,7 +96,8 @@ header section:nth-child(2) div:nth-child(5){
     height: 30px;
     margin-left: 3%;
     width: 40%;
-    padding-left: 5%;    
+    padding-left: 5%;
+    background-color: #000;    
     font-size: 20px;
 }
 
